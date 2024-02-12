@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png” group-title=”Bangla”, G TV Live
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
